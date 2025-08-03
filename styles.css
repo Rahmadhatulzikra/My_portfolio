@@ -565,7 +565,7 @@ span {
 
 .project {
     min-height: auto;
-    padding: 6rem 9% 4rem;
+    padding: 7rem 9% 6rem;
     background: var(--bg-color);
 }
 
@@ -835,7 +835,7 @@ section:nth-child(odd) .animate.scroll,
 }
 
 /* BREAKPOINTS */
-@media (max-width: 1440px) {
+@media (max-width: 1400px) {
     html {
         font-size: 50%;
     }
