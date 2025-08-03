@@ -565,7 +565,7 @@ span {
 
 .project {
     min-height: auto;
-    padding: 7rem;
+    padding: 6rem 9% 4rem;
     background: var(--bg-color);
 }
 
